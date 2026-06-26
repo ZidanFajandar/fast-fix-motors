@@ -1,6 +1,6 @@
 export const site = {
   name: "FASTFIX MOTORS", // Replace with the real business name.
-  tagline: "Your Trusted Automotive Repair Partner", // Replace with the real business tagline.
+  tagline: "Your Trusted Automotive Repair Partner.", // Replace with the real business tagline.
   phone: "011 794 1057", // Replace with the real telephone number.
   phoneHref: "tel:011 794 1057", // Replace with the real telephone number.
   whatsapp: "[WHATSAPP_LINK]",

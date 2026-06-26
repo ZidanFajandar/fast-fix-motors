@@ -29,7 +29,7 @@ export function About() {
             <SectionHeading
               eyebrow="About Us"
               title="A workshop built around dependable work and straightforward service."
-              description="This section gives drivers a clear sense of what the business does, how long it has been operating, and why the team is worth trusting."
+              description="With years of experience in the automotive industry, we provide reliable repairs, professional servicing, and honest advice you can trust."
             />
 
             <div className="mt-8 grid gap-4 sm:grid-cols-2">

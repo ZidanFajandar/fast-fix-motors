@@ -11,7 +11,7 @@ export function Services() {
         <SectionHeading
           eyebrow="Services"
           title="Core repair and maintenance services presented clearly."
-          description="The cards below are ready for replacement with live service detail, booking notes, or package pricing."
+          description="We offer a range of automotive services to keep your vehicle running smoothly. From routine maintenance to complex repairs, our team is equipped to handle it all with professionalism and care."
         />
 
         <div className="mt-10 grid gap-4 sm:grid-cols-2 xl:grid-cols-4">

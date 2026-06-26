@@ -8,7 +8,7 @@ export function Testimonials() {
         <SectionHeading
           eyebrow="Testimonials"
           title="Social proof from customers who trust the workshop."
-          description="Replace these cards with real customer reviews once they are available."
+          description="Hear from our satisfied customers about their experiences with our automotive services. We take pride in delivering quality repairs and exceptional customer service."
           tone="dark"
         />
 
